@@ -7,6 +7,7 @@ public class M_multiply {
 		int m, n, p, q, sum = 0, c, d, k;
 		 
 	      Scanner in = new Scanner(System.in);
+	      System.out.println("Matrix Multiplication");
 	      System.out.println("Enter the number of rows and columns of first matrix");
 	      m = in.nextInt();
 	      n = in.nextInt();
