@@ -29,12 +29,12 @@ public class StringAnalysis {
 			else 
 				special_character++;
 	}
-		System.out.println("WhiteSpace:  "+whitespace);
-		System.out.println("Alphabets:  "+alphabet);
-		System.out.println("Vowels: "+vowel);
-		System.out.println("Consonants: "+consonant);
+		System.out.println("WhiteSpace       : "+whitespace);
+		System.out.println("Alphabets        : "+alphabet);
+		System.out.println("Vowels           : "+vowel);
+		System.out.println("Consonants       : "+consonant);
+		System.out.println("Numbers          : "+numbers);
 		System.out.println("SpecialCharacters: "+special_character);
-		System.out.println("Numbers: "+numbers);
-
+		
 }
 }
