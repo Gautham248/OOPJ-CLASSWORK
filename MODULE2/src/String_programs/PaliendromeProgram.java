@@ -18,6 +18,7 @@ public class PaliendromeProgram {
 			System.out.println("The String is a Paliendrome");
 		else
 			System.out.println("The String is not a Paliendrome");
+		
 
 	}
 
