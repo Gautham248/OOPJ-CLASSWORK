@@ -1,6 +1,6 @@
 package Practice_Problems;
 
-public class df {
+public class dfs {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
