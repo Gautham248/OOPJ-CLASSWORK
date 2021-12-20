@@ -15,6 +15,7 @@ public class Reverse_Paliendrome {
 			ch=str.charAt(i);
 			revstr=ch+revstr;
 		}
+		System.out.println("Reverse of the string is:\n"+revstr);
 		if(str.equals(revstr))
 			System.out.println("The String is a Paliendrome");
 		else
